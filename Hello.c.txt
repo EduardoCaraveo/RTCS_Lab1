@@ -1,0 +1,16 @@
+#include "Hello.h"
+
+void main()
+
+{
+    int a = 0;
+    int b = 0;
+    int c = 0;
+    for(a=0;a<100;a++) {
+
+    printf("Hola Mundo");
+    b = '1';
+    c++;
+    
+     } 
+}
